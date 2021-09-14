@@ -9,7 +9,7 @@
 
 - 🔎 Contact me [**Here**](https://discord.gg/Wzwx7rcFXW)
 
-- 📱 My discord id ** 
+- 📱 My discord id **⚚𝐂𝐊⚚➺MysteryTech#5885**
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
