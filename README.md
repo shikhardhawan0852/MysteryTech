@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm MysteryTech</h1>
 <h3 align="center">A passionate developer,a gamer, and a small youtuber  [100+ Subs]</h3>
 
-<p align="left"> <img src="(https://komarev.com/ghpvc/?username=MysteryTech&color=0e75b6)" /> </p>
+<div align="left"><img alt="uwu"src="https://discord.c99.nl/widget/theme-2/828119784485945374.png"></div>
+<p align="right"> <img src="(https://komarev.com/ghpvc/?username=MysteryTech&color=0e75b6)" /> </p>
 
 - 🚀 I’m currently working on a **Many things**
 
@@ -9,7 +10,7 @@
 
 - 🔎 Contact me [**Here**](https://discord.gg/Wzwx7rcFXW)
 
-- 📱 My discord id **⚚𝐂𝐊⚚➺MysteryTech#5885**
+- 📱 My discord id **MysteryTech#5885**
 
 <h3 align="left">My Socials:</h3>
 <p align="left">
